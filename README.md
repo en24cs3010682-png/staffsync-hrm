@@ -3,6 +3,14 @@
 A MERN Stack (MongoDB, Express.js, React.js, Node.js) web application that digitizes core HR functions
 with three roles: **HR**, **Manager** and **Employee**. Authentication uses **JWT**, UI uses **Bootstrap**.
 
+## Run locally
+
+After starting the backend and frontend (see Setup below), open the app at:
+
+**http://localhost:5173**
+
+(This link works only on your own computer while the app is running.)
+
 ## Features by role
 
 | Feature | HR | Manager | Employee |
