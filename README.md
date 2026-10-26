@@ -1,4 +1,5 @@
 # StaffSync - Modern Human Resource Management Solution
+   **Live demo:** https://staffsync-hrm-1-om62.onrender.com (first load may take ~50 seconds)
 
 A MERN Stack (MongoDB, Express.js, React.js, Node.js) web application that digitizes core HR functions
 with three roles: **HR**, **Manager** and **Employee**. Authentication uses **JWT**, UI uses **Bootstrap**.
