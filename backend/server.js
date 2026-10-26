@@ -21,6 +21,7 @@ if (!process.env.JWT_SECRET || process.env.JWT_SECRET.startsWith('change_this'))
 connectDB();
 
 const app = express();
+app.set('trust proxy', 1);
 app.use(cors());
 app.use(express.json());
 const loginLimiter = rateLimit({
