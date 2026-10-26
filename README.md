@@ -96,3 +96,7 @@ All routes except login need header `Authorization: Bearer <token>`.
 - Leave days are counted inclusive of from/to date. Approving a non-Unpaid leave deducts from the employee's balance (default 12 days).
 - A manager can review only their own team's leave; nobody can review their own leave. Manager's own leave goes to HR.
 - Check-out before 4 hours of work marks the day as "Half Day".
+## Project Documentation
+
+Phase-wise documentation (Ideation, Planning, Requirement Analysis, Design, Testing):
+[View on Google Drive](https://drive.google.com/drive/folders/1R7wz6jaTdchoe9850ArIQCasiX_yFRqt)
